@@ -1,0 +1,39 @@
+[PONDASEE](http://tokokoo.github.com/pondasee)
+========================
+
+Pondasee is a little front-end web developer framework to help designer or developer. 
+
+Requirement
+-------------------------
+* Compass 0.12.2
+* SASS 3.2.0.alpha.237
+
+Quick start
+-------------------------
+* Clone this project `git clone git://github.com/tokokoo/pondasee.git`
+* Or you can download the zip file [here](https://github.com/tokokoo/pondasee/zipball/master)
+* Compile `pondasee` project folder and you're ready to go! :D
+* Read our simple docs [here](http://tokokoo.github.com/pondasee/docs).
+
+
+Project information
+-------------------------
+Pondasee is crafted and developed by [Tokokoo Team](http://tokokoo.com), feel free to send us some feedback!
+
+* Source: [http://tokokoo.github.com/pondasee](http://tokokoo.github.com/pondasee)
+* Twitter: [@tokokoo](http://twitter.com/tokokoo)
+* Website: [Tokokoo](http://tokokoo.com)
+
+Components
+-------------------------
+
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate): The Unlicense
+* [Modernizr](https://github.com/Modernizr/Modernizr): MIT/BSD license
+* [jQuery](https://github.com/jquery/jquery): MIT/GPL license
+* [Normalize.css](https://github.com/necolas/normalize.css): Public Domain
+* [Selectivizr](https://github.com/keithclark/selectivizr): MIT license
+
+Everything else
+-------------------------
+
+[The Unlicense](http://unlicense.org/)
