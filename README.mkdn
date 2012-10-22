@@ -2,3 +2,10 @@ CSS Utilities
 ========================
 
 Little but necessary collection of CSS classes to help designer or developer.
+
+Project information
+-------------------------
+CSS Utilities is crafted and developed by Tokokoo Team!
+
+* Website: [Tokokoo](http://tokokoo.com)
+* License: [The Unlicense](http://unlicense.org/)
