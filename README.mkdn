@@ -1,2 +1,4 @@
-CSS Utitlities
+CSS Utilities
 ========================
+
+Little but necessary collection of CSS classes to help designer or developer.
